@@ -1,4 +1,4 @@
-## Hi there Gustavo Rosas👋
+## Hi there I'm Gustavo👋
 💻 Software Engineer  
 ⚙️ C++ | Full-Stack | Real-Time Systems
 
