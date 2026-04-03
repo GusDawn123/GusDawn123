@@ -1,11 +1,6 @@
 ## Hi there I'm Gustavo👋
 💻 Software Engineer  
 ⚙️ C++ | Full-Stack | Real-Time Systems
-
-## 🚀 Featured
-- CoMeet — Real-time AI meeting assistant
-- Order Book Engine — C++20 matching engine
-
 - 🔭 I’m currently working on integrating PowerShell tools and Github Copilot into my CoMeet Application. 
 <!--
 **GusDawn123/GusDawn123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
