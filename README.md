@@ -32,10 +32,3 @@ Frontend     React · Vite · Tailwind CSS
 AI / Data    Deepgram Nova-3 · Gemini · GPT-4o · Anthropic Claude
 Systems      CMake · STL · Google Test · Docker · GitHub Actions
 ```
-
----
-
-### Contact
-
-📧 rose.gustavo.jr@gmail.com  
-📍 Orlando, FL
